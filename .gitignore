@@ -1,0 +1,10 @@
+# ide directory
+.vscode
+
+# compile & lifting file
+*.o
+*.out
+*.ll
+*.bc
+*.log
+*.cfg
